@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
 3<sup>rd</sup> year undergrad 👨‍🎓 in AMITY UNIVERSITY, KOLKATA.
 - 🔭: Learning as a Full Stack developer.
 -  ➡️: Always a student to learn new technologies.
@@ -28,4 +28,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 -  ⚡: Use my free time to brush up coding skills on LEETCODE.
 -  📬: Mail me at "aryanbharadwaj345@gmail.com".
 -  📱: Connect with me at: [![Linkedin Badge](https://img.shields.io/badge/-aryanbharadwaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-bharadwaj-956679203/)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+🖋️LANGUAGES:
+<div>
+  
+</div>
 
